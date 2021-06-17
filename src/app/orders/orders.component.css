@@ -1,0 +1,70 @@
+
+  .row .col h4{ 
+    margin: 35px 7px -2px;
+    padding: 3px;
+  }
+  .order{
+    border-radius: 4px;
+    border: 3px solid #eee;
+    background-color: #fafafa;     
+    margin: 35px 7px -2px;
+    padding: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+  }
+
+  button{
+    /* height: 35px; */
+    float: right;
+  }
+  
+  .content {
+    display: flex;
+    margin: 30px auto 0px;
+    /* width: 100%; */
+    padding: 0 16px;  
+    flex-direction: column;
+    align-items: center;
+  }
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 16px;
+  } 
+
+  .card-container .card:not(:last-child) {
+    margin-right: 0;
+  }
+
+ li{
+   list-style-type: none;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ li label{
+   font-weight:900;
+ }
+
+
+
+ table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.modal-title{
+  color: rgb(199, 138, 25) ;
+}
+
+.modal-header{
+  background: black;
+}
+

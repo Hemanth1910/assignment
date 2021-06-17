@@ -26,18 +26,21 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-#To run the project 
-#clone the code 
+## To run the project 
+## clone the code 
  Command -- git clone  https://github.com/Hemanth1910/assignment.git
  
- #install nodemodules 
+ ## install nodemodules 
  run npm install in your project
  
- #view the output
+ ## view the output
  use this link : http://localhost:4200/  to open the view the output
+ 
+ ## change status 
+ click on the pen svg icon to change the order status 
 
-#screen1 
+## screen1 
 <img src="images/output1.png" width="400" height="150" style="vertical-align:middle">
 
-#screen2
+## screen2
 <img src="images/Output2.png" width="400" height="150" style="vertical-align:middle">

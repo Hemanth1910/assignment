@@ -37,7 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  use this link : http://localhost:4200/  to open the view the output
 
 #screen1 
-<img src="images/0utput1.png" width="400" height="150" style="vertical-align:middle">
+<img src="images/output1.png" width="400" height="150" style="vertical-align:middle">
 
 #screen2
 <img src="images/Output2.png" width="400" height="150" style="vertical-align:middle">
